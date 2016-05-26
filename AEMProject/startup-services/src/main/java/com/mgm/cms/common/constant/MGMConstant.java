@@ -14,16 +14,6 @@
  */
 package com.mgm.cms.common.constant;
 
-
-
-
-/**
- * Class for the constants used at cq:page level including dialog box properties
- * name.
- * 
- * @author rkira2
- * 
- */
 public final class MGMConstant {
 
 	/**
@@ -55,18 +45,7 @@ public final class MGMConstant {
 	/** The Constant PROPERTY_NAME. */
 	public static final String PROPERTY_NAME = "propertyName";
 	
-	/** The Constant PROPERTY_ID. */
-	public static final String PROPERTY_ID = "propertyId";
 	
-	/** The Constant VIEW_MENU_URL. */
-	public static final String VIEW_MENU_URL = "menus";
-	
-	/** The Constant PROPERTY_GET_DIRECTIONS_URL. */
-	public static final String PROPERTY_GET_DIRECTIONS_URL = "propertyDirectionUrl";
-
-	// Design folder related property keys
-	/** The Constant CSS_ROOT_PATH. */
-	public static final String CSS_ROOT_PATH = "cssRootPath";
 	
 	/** The Constant JS_ROOT_PATH. */
 	public static final String JS_ROOT_PATH = "jsRootPath";
