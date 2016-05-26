@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>com.mgm - startup-view</comment>
+<entry key="createdBy">gjena</entry>
+<entry key="name">startup-view</entry>
+<entry key="created">2016-05-26T18:17:49.579+0530</entry>
+<entry key="groupId">com.mgm</entry>
+<entry key="version">1.0.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">com.mgm</entry>
+<entry key="description">All of the CQ component and template definitions for the mgm project.
+
+        During development, the files in this module should be sync'd to your CQ instance using the FileVault command
+        line tool available with CQ. There is also a plugin for Eclipse called "vaultclipse" that can be used instead
+        of the command line tool.
+
+        It is recommended that this module not contain any Java code and instead Java code should be placed in either
+        the mgm-taglib module or the mgm-services module as appropriate.</entry>
+<entry key="artifactId">startup-view</entry>
+<entry key="path">/etc/packages/com.mgm/startup-view.zip</entry>
+</properties>

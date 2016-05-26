@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Implementation-Title: com.mgm - startup-services
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: gjena
+Tool: Bnd-0.0.357
+Bundle-Name: com.mgm - startup-services
+Created-By: Apache Maven Bundle Plugin
+Build-Number: ${BUILD_NUMBER}
+Implementation-Vendor-Id: com.mgm
+Build-Jdk: 1.7.0_79
+Bundle-Version: 1.0.0.SNAPSHOT
+Bnd-LastModified: 1464266419534
+Bundle-ManifestVersion: 2
+Bundle-Description: An OSGi Bundle containing all of the backend CQ se
+ rvice implementations for the mgm project. During development, this b
+ undle can be automatically deployed to your CQ instance by activating
+  the "auto-deploy" profile and running the Maven "install" lifecycle 
+ phase (e.g. "mvn -Pauto-deploy install"). This can also be done from 
+ within most IDEs like Eclipse.
+Bundle-SymbolicName: com.mgm.startup-services
+

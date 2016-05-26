@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspaceFilter vesion="1.0">
+	<!-- MGM DMP -->
+    <filter root="/apps/mgm/components"/>
+    <filter root="/apps/mgm/foundation"/>
+    <filter root="/apps/mgm/i18n"/>
+    <filter root="/apps/mgm/pagecomponents"/>
+    <filter root="/apps/mgm/templates"/>
+    <filter root="/apps/mgm/widgets"/>
+    
+	<!-- MGM Email Template related code -->
+	<filter root="/apps/mgm-newsletter"/>
+
+    <filter root="/etc/designs/mgmresorts">
+        <exclude pattern="/etc/designs/mgm/jcr:content"/>
+    </filter>
+	<filter root="/etc/designs/mgmresorts-app"/>
+	<filter root="/etc/designs/mgmresorts/library/uncompressed">
+		<exclude pattern="/etc/designs/mgmresorts/library/uncompressed/*.css"/>
+		<exclude pattern="/etc/designs/mgmresorts/library/uncompressed/*.js"/>
+	</filter>
+    <filter root="/apps/sling/servlet/errorhandler"/>
+    <filter root="/etc/notification/email/mgm"/>
+    <filter root="/etc/languages"/>
+    <filter root="/etc/workflow/models/mgm"/>
+    <filter root="/etc/workflow/scripts/mgm"/>
+	
+    <!-- Filters for the component-template mapping-->
+    <filter root="/etc/designs/default/jcr:content/openPage"/>
+    <filter root="/etc/designs/default/jcr:content/detailPage"/>
+    <filter root="/etc/designs/default/jcr:content/landingPage"/>
+    <filter root="/etc/designs/default/jcr:content/ccmpage"/>
+    <filter root="/etc/designs/default/jcr:content/accountactivate"/>
+    <filter root="/etc/designs/default/jcr:content/anchoredpage"/>
+    <filter root="/etc/designs/default/jcr:content/rightRail"/>
+    <filter root="/etc/designs/default/jcr:content/blankpage"/>
+    <filter root="/etc/designs/default/jcr:content/campaignAnchored"/>
+    <filter root="/etc/designs/default/jcr:content/genericemailpage"/>
+    <filter root="/etc/designs/default/jcr:content/reservationcancelemailpage"/>
+    <filter root="/etc/designs/default/jcr:content/emailpage"/>
+	
+    <!-- Filters for siteadmin/damadmin console overridden components-->
+    <filter root="/apps/cq"/>    
+	<filter root="/apps/dam"/>
+	<filter root="/apps/granite/operations/config/maintenance"/>
+    <!-- Filters for standard rollout config-->
+    <filter root="/etc/msm/rolloutconfigs/default"/>
+    <filter root="/etc/msm/rolloutconfigs/pushonmodify"/>
+	<filter root="/etc/msm/rolloutconfigs/mgm-phonegap-mobile"/>
+</workspaceFilter>

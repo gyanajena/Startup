@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2014-12-23T11:49:34.702+05:30"
+        cq:lastModifiedBy="admin"
+        jcr:primaryType="nt:unstructured"
+        jcr:title="Default Design"
+        sling:resourceType="wcm/core/components/designer">
+        <ccmpage jcr:primaryType="nt:unstructured">
+            <par
+                jcr:lastModified="{Date}2014-12-23T11:31:33.491+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys"
+                components="[group:CCM - Global,group:CCM - Item,group:CCM - Property]">
+                <section jcr:primaryType="nt:unstructured"/>
+            </par>
+        </ccmpage>
+        <detailPage jcr:primaryType="nt:unstructured">
+            <section2 jcr:primaryType="nt:unstructured">
+                <par
+                    jcr:lastModified="{Date}2014-12-23T11:38:38.287+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/parsys"
+                    components="group:MGM - Common">
+                    <section jcr:primaryType="nt:unstructured"/>
+                </par>
+            </section2>
+            <section3 jcr:primaryType="nt:unstructured">
+                <par
+                    jcr:lastModified="{Date}2014-12-23T11:39:04.231+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/parsys"
+                    components="group:MGM - Common">
+                    <section jcr:primaryType="nt:unstructured"/>
+                </par>
+            </section3>
+            <section4 jcr:primaryType="nt:unstructured">
+                <par
+                    jcr:lastModified="{Date}2014-12-23T11:39:17.352+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/parsys"
+                    components="group:MGM - Common">
+                    <section jcr:primaryType="nt:unstructured"/>
+                </par>
+            </section4>
+            <section5 jcr:primaryType="nt:unstructured">
+                <par
+                    jcr:lastModified="{Date}2014-12-23T11:39:33.300+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/parsys"
+                    components="group:MGM - Common">
+                    <section jcr:primaryType="nt:unstructured"/>
+                </par>
+            </section5>
+            <section6 jcr:primaryType="nt:unstructured">
+                <par
+                    jcr:lastModified="{Date}2014-12-23T11:39:55.595+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/parsys"
+                    components="group:MGM - Common">
+                    <section jcr:primaryType="nt:unstructured"/>
+                </par>
+            </section6>
+            <section7 jcr:primaryType="nt:unstructured">
+                <par
+                    jcr:lastModified="{Date}2014-12-23T11:40:07.366+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/parsys"
+                    components="group:MGM - Common">
+                    <section jcr:primaryType="nt:unstructured"/>
+                </par>
+            </section7>
+            <section8 jcr:primaryType="nt:unstructured">
+                <par
+                    jcr:lastModified="{Date}2014-12-23T11:40:21.196+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/parsys"
+                    components="group:MGM - Common">
+                    <section jcr:primaryType="nt:unstructured"/>
+                </par>
+            </section8>
+        </detailPage>
+        <anchoredpage jcr:primaryType="nt:unstructured">
+			<toppar
+				jcr:lastModified="{Date}2014-12-23T11:38:38.287+05:30"
+				jcr:lastModifiedBy="admin"
+				jcr:primaryType="nt:unstructured"
+				sling:resourceType="foundation/components/parsys"
+				components="/apps/mgm/components/common/pageTitle">
+				<section jcr:primaryType="nt:unstructured"/>
+			</toppar>
+            <section1 jcr:primaryType="nt:unstructured">
+                <par
+                    jcr:lastModified="{Date}2014-12-23T11:38:38.287+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/parsys"
+                    components="[/apps/mgm/components/common/hotel/virtualTourBox,/apps/mgm/components/common/hotel/virtualTourCTA]">
+                    <section jcr:primaryType="nt:unstructured"/>
+                </par>
+            </section1>
+            <section2 jcr:primaryType="nt:unstructured">
+                <par
+                    jcr:lastModified="{Date}2014-12-23T11:38:38.287+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/parsys"
+                    components="[/apps/mgm/components/common/hotel/virtualTourBox,/apps/mgm/components/common/hotel/virtualTourCTA]">
+                    <section jcr:primaryType="nt:unstructured"/>
+                </par>
+            </section2>
+            <section3 jcr:primaryType="nt:unstructured">
+                <par
+                    jcr:lastModified="{Date}2014-12-23T11:39:04.231+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/parsys"
+                    components="[/apps/mgm/components/common/hotel/virtualTourBox,/apps/mgm/components/common/hotel/virtualTourCTA]">
+                    <section jcr:primaryType="nt:unstructured"/>
+                </par>
+            </section3>
+            <section4 jcr:primaryType="nt:unstructured">
+                <par
+                    jcr:lastModified="{Date}2014-12-23T11:39:17.352+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/parsys"
+                    components="[/apps/mgm/components/common/hotel/virtualTourBox,/apps/mgm/components/common/hotel/virtualTourCTA]">
+                    <section jcr:primaryType="nt:unstructured"/>
+                </par>
+            </section4>
+            <section5 jcr:primaryType="nt:unstructured">
+                <par
+                    jcr:lastModified="{Date}2014-12-23T11:39:33.300+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/parsys"
+                    components="[/apps/mgm/components/common/hotel/virtualTourBox,/apps/mgm/components/common/hotel/virtualTourCTA]">
+                    <section jcr:primaryType="nt:unstructured"/>
+                </par>
+            </section5>
+            <section6 jcr:primaryType="nt:unstructured">
+                <par
+                    jcr:lastModified="{Date}2014-12-23T11:39:55.595+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/parsys"
+                    components="[/apps/mgm/components/common/hotel/virtualTourBox,/apps/mgm/components/common/hotel/virtualTourCTA]">
+                    <section jcr:primaryType="nt:unstructured"/>
+                </par>
+            </section6>
+            <section7 jcr:primaryType="nt:unstructured">
+                <par
+                    jcr:lastModified="{Date}2014-12-23T11:40:07.366+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/parsys"
+                    components="[/apps/mgm/components/common/hotel/virtualTourBox,/apps/mgm/components/common/hotel/virtualTourCTA]">
+                    <section jcr:primaryType="nt:unstructured"/>
+                </par>
+            </section7>
+            <section8 jcr:primaryType="nt:unstructured">
+                <par
+                    jcr:lastModified="{Date}2014-12-23T11:40:21.196+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/parsys"
+                    components="[/apps/mgm/components/common/hotel/virtualTourBox,/apps/mgm/components/common/hotel/virtualTourCTA]">
+                    <section jcr:primaryType="nt:unstructured"/>
+                </par>
+            </section8>
+        </anchoredpage>
+        <landingPage jcr:primaryType="nt:unstructured">
+            <toppar
+                jcr:lastModified="{Date}2014-12-23T11:47:55.251+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys"
+                components="group:MGM - Common">
+                <section jcr:primaryType="nt:unstructured"/>
+            </toppar>
+            <bottompar
+                jcr:lastModified="{Date}2014-12-23T11:38:23.131+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys"
+                components="group:MGM - Common">
+                <section jcr:primaryType="nt:unstructured"/>
+            </bottompar>
+        </landingPage>
+        <accountactivate jcr:primaryType="nt:unstructured">
+            <par
+                jcr:lastModified="{Date}2014-12-23T11:40:32.500+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys"
+                components="[group:MGM - Accounts]">
+                <section jcr:primaryType="nt:unstructured"/>
+            </par>
+        </accountactivate>
+		<rightRail jcr:primaryType="nt:unstructured">
+            <leftpar
+                jcr:lastModified="{Date}2014-12-23T11:49:34.697+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys"
+                components="[/apps/mgm/components/common/faq,/apps/mgm/components/common/search,/apps/mgm/components/common/sitemap]">
+                <section jcr:primaryType="nt:unstructured"/>
+            </leftpar>
+            <rightpar
+                jcr:lastModified="{Date}2014-12-23T11:49:34.697+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys"
+                components="[/apps/mgm/components/common/offersRightRail,/apps/mgm/components/common/rightRailPromoBox,/apps/mgm/components/common/accounts/imageTextPromo]">
+                <section jcr:primaryType="nt:unstructured"/>
+            </rightpar>
+            <bottompar
+                jcr:lastModified="{Date}2014-12-23T11:49:34.697+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys"
+                components="[/apps/mgm/components/common/mlife,/apps/mgm/components/common/privateDining]">
+                <section jcr:primaryType="nt:unstructured"/>
+            </bottompar>
+		</rightRail>
+        <openPage jcr:primaryType="nt:unstructured">
+            <par
+                jcr:lastModified="{Date}2014-12-23T11:49:34.697+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys"
+                components="group:MGM - Common">
+                <section jcr:primaryType="nt:unstructured"/>
+            </par>
+        </openPage>
+		<campaignAnchored jcr:primaryType="nt:unstructured">
+            <secondarynavigation jcr:primaryType="nt:unstructured">
+                <campaignparsys1
+                    jcr:lastModified="{Date}2015-02-12T14:57:59.153+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/parsys"
+                    components="[group:MGM - Campaign,group:MGM - Common]">
+                    <section jcr:primaryType="nt:unstructured"/>
+                </campaignparsys1>
+				<campaignparsys2
+                    jcr:lastModified="{Date}2015-02-12T14:57:59.153+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/parsys"
+                    components="[group:MGM - Campaign,group:MGM - Common]">
+                    <section jcr:primaryType="nt:unstructured"/>
+                </campaignparsys2>
+				<campaignparsys3
+                    jcr:lastModified="{Date}2015-02-12T14:57:59.153+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/parsys"
+                    components="[group:MGM - Campaign,group:MGM - Common]">
+                    <section jcr:primaryType="nt:unstructured"/>
+                </campaignparsys3>
+				<campaignparsys4
+                    jcr:lastModified="{Date}2015-02-12T14:57:59.153+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/parsys"
+                    components="[group:MGM - Campaign,group:MGM - Common]">
+                    <section jcr:primaryType="nt:unstructured"/>
+                </campaignparsys4>
+				<campaignparsys5
+                    jcr:lastModified="{Date}2015-02-12T14:57:59.153+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/parsys"
+                    components="[group:MGM - Campaign,group:MGM - Common]">
+                    <section jcr:primaryType="nt:unstructured"/>
+                </campaignparsys5>
+				<campaignparsys6
+                    jcr:lastModified="{Date}2015-02-12T14:57:59.153+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/parsys"
+                    components="[group:MGM - Campaign,group:MGM - Common]">
+                    <section jcr:primaryType="nt:unstructured"/>
+                </campaignparsys6>
+				<campaignparsys7
+                    jcr:lastModified="{Date}2015-02-12T14:57:59.153+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/parsys"
+                    components="[group:MGM - Campaign,group:MGM - Common]">
+                    <section jcr:primaryType="nt:unstructured"/>
+                </campaignparsys7>
+				<campaignparsys8
+                    jcr:lastModified="{Date}2015-02-12T14:57:59.153+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/parsys"
+                    components="[group:MGM - Campaign,group:MGM - Common]">
+                    <section jcr:primaryType="nt:unstructured"/>
+                </campaignparsys8>				
+            </secondarynavigation>
+        </campaignAnchored>
+		<blankpage jcr:primaryType="nt:unstructured">
+            <main_content
+                jcr:lastModified="{Date}2014-12-23T11:49:34.697+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys"
+                components="[/apps/mgm/components/common/carouselPanel,/apps/mgm/components/common/hotel/viewAllRooms]">
+                <section jcr:primaryType="nt:unstructured"/>
+            </main_content>
+		</blankpage>
+        <genericemailpage jcr:primaryType="nt:unstructured">
+            <promo_content
+                jcr:lastModified="{Date}2014-12-23T11:49:34.697+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys"
+                components="group:MGM - Email">
+                <section jcr:primaryType="nt:unstructured"/>
+            </promo_content>
+        </genericemailpage>
+        <reservationcancelemailpage jcr:primaryType="nt:unstructured">
+            <promo_content
+                jcr:lastModified="{Date}2014-12-23T11:49:34.697+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys"
+                components="group:MGM - Email">
+                <section jcr:primaryType="nt:unstructured"/>
+            </promo_content>
+        </reservationcancelemailpage>
+        <emailpage jcr:primaryType="nt:unstructured">
+            <promo_content
+                jcr:lastModified="{Date}2014-12-23T11:49:34.697+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys"
+                components="group:MGM - Email">
+                <section jcr:primaryType="nt:unstructured"/>
+            </promo_content>
+        </emailpage>
+    </jcr:content>
+</jcr:root>
