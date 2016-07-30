@@ -111,7 +111,7 @@
 				<extensions>true</extensions>
 				<configuration>
 					<instructions>
-						<Export-Package></Export-Package>
+						<Export-Package>com.startup.cms.osgi.service.*</Export-Package>
 						<Import-Package></Import-Package>
 						<Include-Resource>{maven-resources}</Include-Resource>
 					</instructions>
